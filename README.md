@@ -5,6 +5,7 @@
 - Java
 - JavaScript (Websockets for Chatting capability)
 - Python w/ Selenium (Web Scraping)
+- MongoDB
 
 ## Daniel Nofulla
 * Setup / Maintained CRUD User Service
