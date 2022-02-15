@@ -1,4 +1,10 @@
-﻿# ICSI-418Y-Team-2-Back-End
+﻿# NBA Fantasy Simulator Backend
+ 
+## Technologies used
+- Spring Framework
+- Java
+- JavaScript (Websockets for Chatting capability)
+- Python w/ Selenium (Web Scraping)
 
 ## Daniel Nofulla
 * Setup / Maintained CRUD User Service
